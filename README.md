@@ -1,5 +1,3 @@
-# langchain-huggingface-demo
-
 # LangChain with Hugging Face Demo
 
 This repository contains a Google Colab notebook that demonstrates how to use [LangChain](https://www.langchain.com/) with models from [Hugging Face](https://huggingface.co/) to build LLM-powered applications.
